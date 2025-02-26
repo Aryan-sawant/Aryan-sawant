@@ -106,6 +106,16 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 🎓 B.E IT, Vidyalankar Institute of Technology (2021 – 2025) - CGPA: 8.56
 
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-sawant&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aryan-sawant&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">📊 GitHub Stats
 
 <p align="center">
@@ -116,16 +126,6 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sawant&layout=compact&theme=tokyonight" alt="Top Langs">
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-sawant&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aryan-sawant&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><p align="center">
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><p align="center">
   <span style="font-size: 1.2em; text-shadow: 2px 2px 3px #777;">💡</span> <b><i>"Code, Analyze, Optimize, Repeat!"</i></b> 🚀
 </p>
