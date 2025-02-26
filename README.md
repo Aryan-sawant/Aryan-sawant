@@ -1,16 +1,10 @@
-<p align="center">
+  <p align="center">
   <img src="https://github.com/Aryan-sawant/Aryan-sawant/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" style="border-radius: 10px;">
-</p>
-
-<h1 align="center">
+</p><h1 align="center">
   <span style="text-shadow: 2px 2px 3px #999;">👋 Hi, I'm</span> <span style="font-weight: bold; text-shadow: 2px 2px 4px #555;">Aryan Sawant!</span>
-</h1>
-
-<h2 align="center">
+</h1><h2 align="center">
   <span style="color: #29ABE2; font-weight: bold; text-shadow: 1px 1px 2px #777;">🚀 AI/ML Engineer & Data Analyst</span> | <span style="color: #FFD700; font-weight: bold; text-shadow: 1px 1px 2px #777;">🔍 Passionate about AI, ML, & Data Science</span>
-</h2>
-
-<p align="center">
+</h2><p align="center">
   <a href="https://github.com/Aryan-sawant" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
@@ -23,30 +17,20 @@
   <a href="mailto:umeshsawant112233@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-umeshsawant112233@gmail.com-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-</p>
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
-
-## ✨ About Me
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">✨ About Me
 
 <p align="justify">
 I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.
-</p>
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">💻 Tech Stack
 
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+<br>⌨️ Programming Languages:
 
-## <img src="https://camo.githubusercontent.com/c3c9449d623d116f4452af94e4dd0276152193597a4bc1f9c55f75aba6cfb33f/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100" height="60" align="center"> Tech Stack 
-
-<br>
-
-### <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100" height="80" align="center"> Programming Languages:
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="70" height="70" alt="Python">
   </a>
-</p>
+</p>🧰 Frameworks & Tools:
 
-### <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif" width="100" align="center"> Frameworks & Tools:
 <p>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*SB-Fu_AySBggAAxq0Q2Wew.gif" width="70" height="40" alt="TensorFlow GIF" title="TensorFlow"/>
@@ -81,9 +65,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="70" height="40" alt="Streamlit GIF" title="Streamlit"/>
   </a>
-</p>
+</p>🧰 Deep Learning Algorithms:
 
-### <img src="https://miro.medium.com/v2/resize:fit:1400/0*lsw1uJqP0hOaEP87.gif" width="100" align="center"> Deep Learning Algorithms:
 <p>
   <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
     <img src="https://miro.medium.com/v2/1*pO5X2c28F1ysJhwnmPsy3Q.gif" width="70" alt="ANN">
@@ -94,9 +77,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:960/1*TqcA9EIUF-DGGTBhIx_qbQ.gif" width ="70" alt="RNN">
   </a>
-</p>
+</p>🗄️ Vector Databases:
 
-### <img src="https://media.istockphoto.com/id/1029109558/vector/database-icon-vector-sign-and-symbol-isolated-on-white-background-database-logo-concept.jpg?s=170667a&w=0&k=20&c=yuuZgggVBznugtQckQeeTLlJMwL-TF1C8ex8a1Tfa7g=" width="100" align="center"> Vector Databases:
 <p>
   <a href="https://www.datastax.com/products/astra-db" target="_blank">
     <img src="https://pbs.twimg.com/profile_images/1709952465641082880/k_9EEnhi_400x400.jpg" width ="70" height="50" alt="AstraDB">
@@ -113,30 +95,20 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
     <a href="https://objectbox.io/" target="_blank">
     <img src="https://camo.githubusercontent.com/31ebbffcedf08a40cf81c53cc79bf4bb55f3393432e0acb913328c0143e5c814/687474703a2f2f696d672e796f75747562652e636f6d2f76692f42426c723846386d396c6f2f6d617872657364656661756c742e6a7067" width ="80" height="50"  alt="ObjectBox">
   </a>
-</p>
+</p>📈 Data Analytics Tools:
 
-### <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952ooech2f2sokm8svc3b0c65x90ynv936l2u1jjvaa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" align="center"> Data Analytics Tools:
 <p>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mysql.gif"  width ="80" height="50" alt="MySQL">
-    
-  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mysql.gif"  width ="80" height="50" alt="MySQL">  <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://insightsoftware.com/wp-content/uploads/2018/04/FB-LinkedIn-jet-or-solver-bi360-yellow.gif"  width ="80" height="50" alt="Power BI">
-  </a>
-
-  <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank">
+  </a>  <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank">
     <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif"  width ="80" height="50" alt="Excel">
   </a>
-</p>
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🎓 Education
 
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+🎓 B.E IT, Vidyalankar Institute of Technology (2021 – 2025) - CGPA: 8.56
 
-## 🎓 Education
-🎓 **B.E IT, Vidyalankar Institute of Technology** (2021 – 2025) - CGPA: 8.56
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
-
-## 📊 GitHub Stats
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">📊 GitHub Stats
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aryan-sawant&style=flat-square&color=blue" alt="Profile views" />
@@ -146,10 +118,6 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sawant&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
-
-<p align="center">
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><p align="center">
   <span style="font-size: 1.2em; text-shadow: 2px 2px 3px #777;">💡</span> <b><i>"Code, Analyze, Optimize, Repeat!"</i></b> 🚀
 </p>
