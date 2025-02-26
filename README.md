@@ -118,7 +118,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 ### <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952ooech2f2sokm8svc3b0c65x90ynv936l2u1jjvaa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" align="center"> Data Analytics Tools:
 <p>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-relational-sql-coding-lang-pack-logos-icons-7578013.png"  width ="80" height="50" alt="MySQL">
+    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mysql.gif"  width ="80" height="50" alt="MySQL">
     
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://insightsoftware.com/wp-content/uploads/2018/04/FB-LinkedIn-jet-or-solver-bi360-yellow.gif"  width ="80" height="50" alt="Power BI">
