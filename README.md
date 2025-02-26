@@ -33,8 +33,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### No-Code Agentic AI RAG system
-**Description:** The objective of this project is to develop a no-code Agentic AI RAG system for dynamic information retrieval and response generation using autonomous AI workflows. Built an end-to-end Agentic AI pipeline using LangFlow’s drag-and-drop interface. Preprocessed and embedded unstructured data into DataStax Astra DB via Astra Vectorizers (OpenAI, HuggingFace,etc). Designed a Retrieval-Augmented Generation (RAG) system with two autonomous agents. Database Agent: Queried Astra DB via Groq API for cost-efficient, internal data retrieval. Web Search Agent: Integrated Google Search API for real-time external data extraction. Enabled seamless LLM-driven response generation, delivering an interactive chatbot on LangFlow Playground.
+### No-Code Agentic AI RAG System
+**Description:** No-code Agentic AI RAG system using LangFlow for dynamic information retrieval and response generation. Built with LangFlow, AstraDB, Groq API, and Google Search API for an interactive chatbot.
 
 **Technologies:**
   <img src="https://img.shields.io/badge/LangFlow-E838EB?style=for-the-badge&logo=data-flow&logoColor=white" alt="LangFlow Badge">
@@ -43,13 +43,13 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=none&logoColor=white&labelColor=8A2BE2&label=RAG" alt="RAG Badge">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge">
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&label=Groq" alt="Groq Badge">
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&label=Groq">
   <img src="https://img.shields.io/badge/Google_Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Badge">
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
 ### ATS Resume LLM App
-**Description:** The objective of the project is to create an efficient and user-friendly Resume ATS Tracker that eliminates the inefficiencies of traditional ATS tools by providing instant, actionable insights for resume optimization. Developed a Streamlit-based web application for seamless resume analysis without requiring logins or signups. Integrated Gemini-1.5-Flash API for LLM-based keyword extraction and JD matching. Utilized PyPDFReader to extract text from uploaded resume for processing. Delivered: Matching percentage between resume & JD, missing keywords and actionable optimization suggestions. Designed for instant results, delivering analysis in milliseconds for a seamless user experience.
+**Description:** Streamlit web app for instant resume analysis. Uses Gemini API and PyPDFReader to provide resume-JD matching percentage, missing keywords, and optimization suggestions in milliseconds.
 
 **Technologies:**
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
@@ -61,24 +61,24 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
 ### Western Ghats Bird Species Audio Classification
-**Description:** Western Ghats Bird Species Audio Classification. Designed a Power BI dashboard for bank loan analysis with DAX metrics (total applications, funded amount, interest rates). Used MS SQL for data verification and applied MoM, MTD analysis for financial insights. Designed detailed visualizations to support informed decision-making.
+**Description:** Developed a system for classifying bird species from audio recordings, focusing on species in the Western Ghats region.  Utilized machine learning for audio feature extraction and classification.
 
 **Technologies:**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Audio_Classification-orange?style=for-the-badge&logo=audio-technica&logoColor=white&labelColor=orange&label=Audio%20Classification" alt="Audio Classification Badge">
-  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=blueviolet&label=Machine%20Learning" alt="Machine Learning Badge">
+  <img src="https://img.shields.io/badge/Audio_Classification-orange?style=for-the-badge&logo=audio-technica&logoColor=white&labelColor=orange&label=Audio%20Classification">
+  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=blueviolet&label=Machine%20Learning">
 
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
 ### Power BI Dashboard for Bank Loan Analysis
-**Description:** Western Ghats Bird Species Audio Classification. Designed a Power BI dashboard for bank loan analysis with DAX metrics (total applications, funded amount, interest rates). Used MS SQL for data verification and applied MoM, MTD analysis for financial insights. Designed detailed visualizations to support informed decision-making.
+**Description:** Power BI dashboard for bank loan analysis with DAX metrics.  Used MS SQL for data verification and applied MoM, MTD analysis for financial insights with detailed visualizations.
 
 **Technologies:**
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
   <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Badge">
   <img src="https://img.shields.io/badge/DAX-00ABC7?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=00ABC7&label=DAX" alt="DAX Badge">
-  <img src="https://img.shields.io/badge/Data_Visualization-9466FF?style=for-the-badge&logo=chart-bar&logoColor=white&labelColor=9466FF&label=Data%20Visualization" alt="Data Visualization Badge">
+  <img src="https://img.shields.io/badge/Data_Visualization-9466FF?style=for-the-badge&logo=chart-bar&logoColor=white&labelColor=9466FF&label=Data%20Visualization">
 
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
