@@ -21,13 +21,13 @@
 
 <p align="justify">
 I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><br>🧑‍💻 Programming Languages:
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🧑‍💻 Programming Languages:
 
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="70" height="70" alt="Python">
   </a>
-</p>🧰 Frameworks & Tools:
+</p>⚙️ Frameworks & Tools:
 
 <p>
   <a href="https://www.tensorflow.org/" target="_blank">
