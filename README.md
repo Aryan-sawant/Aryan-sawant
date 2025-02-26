@@ -50,17 +50,5 @@ I'm an innovative engineer skilled in Deep Learning, Generative AI, Agentic AI, 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-sawant&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sawant&layout=compact&theme=tokyonight)
 
-## 🎨 Animations & 3D Effects
-```html
-<div align="center">
-  <img src="https://your-animated-image-url.com" width="200px" alt="Animation"/>
-</div>
-```
-
-## 🏆 Certifications & Achievements
-- ✔️ Advanced ML & AI Certifications
-- ✔️ Power BI & SQL Specialist
-- ✔️ Kaggle Contributor
-
 ---
 💡 **"Code, Analyze, Optimize, Repeat!"** 🚀
