@@ -21,9 +21,7 @@
 
 <p align="justify">
 I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">💻 Tech Stack
-
-<br>⌨️ Programming Languages:
+</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><br>🧑‍💻 Programming Languages:
 
 <p>
   <a href="https://www.python.org/" target="_blank">
