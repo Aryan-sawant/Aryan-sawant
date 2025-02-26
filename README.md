@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-url.com)
+![Banner](https://github.com/Aryan-sawant/Aryan-sawant/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true)
 
 # 👋 Hi, I'm Aryan Sawant!
 
