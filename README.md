@@ -1,10 +1,13 @@
-  <p align="center">
+<p align="center">
   <img src="https://github.com/Aryan-sawant/Aryan-sawant/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" style="border-radius: 10px;">
-</p><h1 align="center">
+</p>
+<h1 align="center">
   <span style="text-shadow: 2px 2px 3px #999;">👋 Hi, I'm</span> <span style="font-weight: bold; text-shadow: 2px 2px 4px #555;">Aryan Sawant!</span>
-</h1><h2 align="center">
+</h1>
+<h2 align="center">
   <span style="color: #29ABE2; font-weight: bold; text-shadow: 1px 1px 2px #777;">🚀 AI/ML Engineer & Data Analyst</span> | <span style="color: #FFD700; font-weight: bold; text-shadow: 1px 1px 2px #777;">🔍 Passionate about AI, ML, & Data Science</span>
-</h2><p align="center">
+</h2>
+<p align="center">
   <a href="https://github.com/Aryan-sawant" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
@@ -17,17 +20,55 @@
   <a href="mailto:umeshsawant112233@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-umeshsawant112233@gmail.com-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">✨ About Me
+</p>
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+✨ About Me
 
 <p align="justify">
-I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🧑‍💻 Programming Languages:
+I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.  In my recent work, I developed a **No-Code Agentic AI RAG system** using Langflow and AstraDB for dynamic information retrieval and response generation and built an **ATS Resume LLM App** with Streamlit and Gemini API for instant resume optimization insights.
+</p>
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+
+**Projects**
+
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+
+### No-Code Agentic AI RAG System
+**Description:** Developed a no-code Agentic AI RAG system using LangFlow for dynamic information retrieval and response generation via autonomous AI workflows. Built an end-to-end pipeline using LangFlow’s drag-and-drop interface. Preprocessed and embedded unstructured data into DataStax Astra DB via Astra Vectorizers (OpenAI, HuggingFace,etc). Designed a Retrieval-Augmented Generation (RAG) system with two autonomous agents: Database Agent (Queried Astra DB via Groq API) and Web Search Agent (Integrated Google Search API). Enabled seamless LLM-driven response generation, delivering an interactive chatbot on LangFlow Playground.
+
+**Technologies:**
+  <img src="https://img.shields.io/badge/LangFlow-E838EB?style=for-the-badge&logo=data-flow&logoColor=white" alt="LangFlow Badge">
+  <img src="https://img.shields.io/badge/AstraDB-005AFF?style=for-the-badge&logo=cassandra&logoColor=white" alt="AstraDB Badge">
+  <img src="https://img.shields.io/badge/LangChain-orange?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge">
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=none&logoColor=white&labelColor=8A2BE2&label=RAG" alt="RAG Badge">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge">
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&label=Groq" alt="Groq Badge">
+  <img src="https://img.shields.io/badge/Google_Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Badge">
+
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+
+### ATS Resume LLM App
+**Description:** Developed a Streamlit-based web application for seamless resume analysis without requiring logins or signups. Integrated Gemini-1.5-Flash API for LLM-based keyword extraction and JD matching. Utilized PyPDFReader to extract text from uploaded resume for processing. Delivered: Matching percentage between resume & JD, missing keywords and actionable optimization suggestions. Designed for instant results, delivering analysis in milliseconds for a seamless user experience.
+
+**Technologies:**
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img src="https://img.shields.io/badge/Gemini_API-34A853?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/LLM-black?style=for-the-badge&logo=openai&logoColor=white&labelColor=black&label=LLM" alt="LLM Badge">
+  <img src="https://img.shields.io/badge/PyPDFReader-red?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyPDFReader Badge">
+
+
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+
+🧑‍💻 Programming Languages:
 
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="70" height="70" alt="Python">
   </a>
-</p>⚙️ Frameworks & Tools:
+</p>
+⚙️ Frameworks & Tools:
 
 <p>
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -63,7 +104,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="70" height="40" alt="Streamlit GIF" title="Streamlit"/>
   </a>
-</p>🧰 Deep Learning Algorithms:
+</p>
+🧰 Deep Learning Algorithms:
 
 <p>
   <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
@@ -75,7 +117,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:960/1*TqcA9EIUF-DGGTBhIx_qbQ.gif" width ="70" alt="RNN">
   </a>
-</p>🗄️ Vector Databases:
+</p>
+🗄️ Vector Databases:
 
 <p>
   <a href="https://www.datastax.com/products/astra-db" target="_blank">
@@ -93,7 +136,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
     <a href="https://objectbox.io/" target="_blank">
     <img src="https://camo.githubusercontent.com/31ebbffcedf08a40cf81c53cc79bf4bb55f3393432e0acb913328c0143e5c814/687474703a2f2f696d672e796f75747562652e636f6d2f76692f42426c723846386d396c6f2f6d617872657364656661756c742e6a7067" width ="80" height="50"  alt="ObjectBox">
   </a>
-</p>📈 Data Analytics Tools:
+</p>
+📈 Data Analytics Tools:
 
 <p>
   <a href="https://www.mysql.com/" target="_blank">
@@ -102,11 +146,14 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   </a>  <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank">
     <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif"  width ="80" height="50" alt="Excel">
   </a>
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🎓 Education
+</p>
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+🎓 Education
 
 🎓 B.E IT, Vidyalankar Institute of Technology (2021 – 2025) - CGPA: 8.56
 
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">🏆 GitHub Achievements
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-sawant&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -116,7 +163,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
     <img src="https://github-profile-trophy.vercel.app/?username=Aryan-sawant&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">📊 GitHub Stats
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+📊 GitHub Stats
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aryan-sawant&style=flat-square&color=blue" alt="Profile views" />
@@ -126,6 +174,12 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sawant&layout=compact&theme=tokyonight" alt="Top Langs">
-</p><hr style="border: 1px solid #d0d0d0; border-radius: 5px;"><p align="center">
+</p>
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+<p align="center">
   <span style="font-size: 1.2em; text-shadow: 2px 2px 3px #777;">💡</span> <b><i>"Code, Analyze, Optimize, Repeat!"</i></b> 🚀
+</p>
+
+<p align="center">
+**Let's connect!**  Feel free to reach out to discuss AI/ML projects or opportunities.  Connect with me on <a href="https://www.linkedin.com/in/aryan-sawant-b2326828a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> or drop me an email at <a href="mailto:umeshsawant112233@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-umeshsawant112233@gmail.com-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>.
 </p>
