@@ -99,7 +99,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 ### <img src="https://media.istockphoto.com/id/1029109558/vector/database-icon-vector-sign-and-symbol-isolated-on-white-background-database-logo-concept.jpg?s=170667a&w=0&k=20&c=yuuZgggVBznugtQckQeeTLlJMwL-TF1C8ex8a1Tfa7g=" width="100" align="center"> Vector Databases:
 <p>
   <a href="https://www.datastax.com/products/astra-db" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1709952465641082880/k_9EEnhi_400x400.jpg" width ="50" height="50" alt="AstraDB">
+    <img src="https://pbs.twimg.com/profile_images/1709952465641082880/k_9EEnhi_400x400.jpg" width ="70" height="50" alt="AstraDB">
   </a>
   <a href="https://github.com/facebookresearch/faiss" target="_blank">
     <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/faiss-vector-database/FAISS_Vector_Database.webp" width ="70" height="50" alt="FAISS">
