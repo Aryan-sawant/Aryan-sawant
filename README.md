@@ -21,7 +21,7 @@
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## <img src="https://emojis.wiki/thumbs/120/sparkles.png" width="20" align="center">  About Me
+## <img src="https://twemoji.maxcdn.com/v/latest/72x72/2728.png" width="20" align="center">  About Me
 
 <p align="justify">
 I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Agentic AI,</b> and <b>Data Analytics</b>. I specialize in building <b>autonomous AI systems</b>, optimizing <b>neural networks (TensorFlow)</b>, developing <b>ML pipelines</b>, and leveraging <b>vector databases</b> to deliver scalable, data-driven solutions.
@@ -29,16 +29,16 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## <img src="https://emojis.wiki/thumbs/120/hammer-and-wrench.png" width="20" align="center">  Tech Stack
+## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f6e0.png" width="20" align="center">  Tech Stack
 
 <br>
 
-### <img src="https://emojis.wiki/thumbs/120/laptop-computer.png" width="20" align="center"> Programming Languages:
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4bb.png" width="20" align="center"> Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-### <img src="https://emojis.wiki/thumbs/120/gear.png" width="20" align="center"> Frameworks & Tools:
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/2699.png" width="20" align="center"> Frameworks & Tools:
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
@@ -46,43 +46,43 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-### <img src="https://emojis.wiki/thumbs/120/floppy-disk.png" width="20" align="center"> Databases:
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4be.png" width="20" align="center"> Databases:
 <p>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/AstraDB-%23FF6600.svg?style=flat&logo=apachecassandra&logoColor=white" alt="AstraDB">
 </p>
 
-### <img src="https://emojis.wiki/thumbs/120/bar-chart.png" width="20" align="center"> Data Analytics:
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ca.png" width="20" align="center"> Data Analytics:
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## <img src="https://emojis.wiki/thumbs/120/pushpin.png" width="20" align="center"> Projects
+## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4cc.png" width="20" align="center"> Projects
 
 <br>
 
-### <img src="https://emojis.wiki/thumbs/120/small-blue-diamond.png" width="18" align="center"> No-Code Agentic AI RAG System
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f539.png" width="18" align="center"> No-Code Agentic AI RAG System
 - Built an end-to-end **Agentic AI pipeline** using **LangFlow**.
 - Designed a **RAG system** with autonomous AI workflows for seamless information retrieval.
 
-### <img src="https://emojis.wiki/thumbs/120/small-blue-diamond.png" width="18" align="center"> ATS Resume LLM App
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f539.png" width="18" align="center"> ATS Resume LLM App
 - Developed a **Streamlit**-based app for instant resume analysis using **Gemini-1.5-Flash API**.
 - Extracts keywords and provides actionable optimization suggestions.
 
-### <img src="https://emojis.wiki/thumbs/120/small-blue-diamond.png" width="18" align="center"> Western Ghats Bird Species Audio Classification
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f539.png" width="18" align="center"> Western Ghats Bird Species Audio Classification
 - Developed a **CNN model** for classifying 53 bird species using audio spectrograms.
 - Integrated real-time UI-based prediction with **Gradio**.
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## <img src="https://emojis.wiki/thumbs/120/graduation-cap.png" width="20" align="center"> Education
+## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f393.png" width="20" align="center"> Education
 🎓 **B.E IT, Vidyalankar Institute of Technology** (2021 – 2025) - CGPA: 8.56
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## <img src="https://emojis.wiki/thumbs/120/bar-chart.png" width="20" align="center"> GitHub Stats
+## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ca.png" width="20" align="center"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-sawant&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats">
 </p>
@@ -93,5 +93,5 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
 <p align="center">
-  <img src="https://emojis.wiki/thumbs/120/light-bulb.png" width="20" align="center"> <b><i>"Code, Analyze, Optimize, Repeat!"</i></b> 🚀
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4a1.png" width="20" align="center"> <b><i>"Code, Analyze, Optimize, Repeat!"</i></b> 🚀
 </p>
