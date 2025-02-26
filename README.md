@@ -131,24 +131,6 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-## 📌 Projects
-
-<br>
-
-### 🔷 No-Code Agentic AI RAG System
-- Built an end-to-end **Agentic AI pipeline** using **LangFlow**.
-- Designed a **RAG system** with autonomous AI workflows for seamless information retrieval.
-
-### 🔷 ATS Resume LLM App
-- Developed a **Streamlit**-based app for instant resume analysis using **Gemini-1.5-Flash API**.
-- Extracts keywords and provides actionable optimization suggestions.
-
-### 🔷 Western Ghats Bird Species Audio Classification
-- Developed a **CNN model** for classifying 53 bird species using audio spectrograms.
-- Integrated real-time UI-based prediction with **Gradio**.
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
-
 ## 🎓 Education
 🎓 **B.E IT, Vidyalankar Institute of Technology** (2021 – 2025) - CGPA: 8.56
 
