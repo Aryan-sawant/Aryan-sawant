@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aryan-sawant/Aryan-sawant/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/Aryan-sawant/Aryan-sawant/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner%20(2).png?raw=true" alt="Banner" width="100%" style="border-radius: 10px;">
 </p>
 <h1 align="center">
   <span style="text-shadow: 2px 2px 3px #999;">👋 Hi, I'm</span> <span style="font-weight: bold; text-shadow: 2px 2px 4px #555;">Aryan Sawant!</span>
