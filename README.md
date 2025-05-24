@@ -113,7 +113,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*t4nDZpO4K5EhILj9dH4vqg.gif" width="70" height="40" alt="Scikit-Learn GIF" title="Scikit-Learn"/>
   </a>
-  <a href="https:// Langchain.com/" target="_blank">
+  <a href="https://www.langchain.com/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*X8OJaqmyw0uhzMHU2CmogA.gif" width="70" height="40" alt="LangChain GIF" title="LangChain"/>
   </a>
     <a href="https://python.langchain.com/docs/langgraph" target="_blank">
@@ -123,12 +123,12 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
     <img src="https://cdn.sanity.io/images/bbnkhnhl/production/439d42a98898c894eaa88213406bd330cd60e480-1168x628.png?w=3840&q=75&fit=clip&auto=format" width="70" height="40" alt="Langflow GIF" title="Langflow"/>
   </a>
     <a href="https://phidata.com/" target="_blank">
-    <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/phidata-ai-agents/Phidata-_Open_Source_AI_Agent_Framework.webp" width="70" height="40" alt="Phidata GIF" title="Phidata"/>
+    <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/fc52752016ff487da8e4686a2b7fcb6d" width="70" height="40" alt="Phidata GIF" title="Agno"/>
   </a>
     <a href="https://www.crewai.ai/" target="_blank">
     <img src="https://lazyprogrammer.me/wp-content/uploads/2025/02/1_Ulg1BjUIxIdmOw63J5gF1Q.png" width="70" height="40" alt="Crew AI GIF" title="Crew AI"/>
   </a>
-    <a href="https://smol-ai.github.io/" target="_blank">
+    <a href="https://huggingface.co/docs/smolagents/en/index" target="_blank">
     <img src="https://media.licdn.com/dms/image/v2/D5612AQESJvFFnql6cA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1736001456690?e=2147483647&v=beta&t=uFwXI9cDtJ_1SJU6AXPMoo5pi5OKdWTAVxD3LdD1nXk" width="70" height="40" alt="SmolAgents GIF" title="SmolAgents"/>
   </a>
       <a href="https://microsoft.github.io/autogen/" target="_blank">
@@ -177,8 +177,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <p>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mysql.gif"  width ="80" height="50" alt="MySQL">  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://insightsoftware.com/wp-content/uploads/2018/04/FB-LinkedIn-jet-or-solver-bi360-yellow.gif"  width ="80" height="50" alt="Power BI">
+    <img src="https://media.tenor.com/NN9_wWaCxx8AAAAe/mysql.png"  width ="80" height="50" alt="MySQL">  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5610AQFO-qmIjhp2ig/image-shrink_1280/image-shrink_1280/0/1699024803595?e=2147483647&v=beta&t=3jRpdgvYBsCWq3Ui9BnKWFPI09wZotZBEJu6lS2EqUM"  width ="80" height="50" alt="Power BI">
   </a>  <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank">
     <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif"  width ="80" height="50" alt="Excel">
   </a>
