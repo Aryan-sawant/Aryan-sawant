@@ -33,6 +33,21 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
+### Bone Health AI Suite
+**Description:** Developed a full-stack "Bone Health AI Suite" using Google Gemini 2.5 Pro for multi-modal medical image analysis (X-ray, CT, MRI) across 8 bone health tasks. Features role-based AI reports (Patient/Doctor), analysis history, chatbot, and specialist finder via Google Maps. Built with React, TypeScript, Vite, and Supabase (PostgreSQL); accuracy validated by medical experts.
+
+**Technologies:**
+  <img src="https://img.shields.io/badge/Gemini_API-34A853?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API Badge">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=dataiku&logoColor=white&labelColor=blueviolet&label=Machine%20Learning" alt="Machine Learning Badge">
+  <img src="https://img.shields.io/badge/Full_Stack-4285F4?style=for-the-badge&logoColor=white&labelColor=4285F4&label=Full%20Stack" alt="Full Stack Badge">
+
+<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
+
 ### No-Code Agentic AI RAG System
 **Description:** No-code Agentic AI RAG system using LangFlow for dynamic information retrieval and response generation. Built with LangFlow, AstraDB, Groq API, and Google Search API for an interactive chatbot.
 
@@ -43,20 +58,8 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=none&logoColor=white&labelColor=8A2BE2&label=RAG" alt="RAG Badge">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge">
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&label=Groq">
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&label=Groq" alt="Groq Badge">
   <img src="https://img.shields.io/badge/Google_Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Badge">
-
-<hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
-
-### ATS Resume LLM App
-**Description:** Streamlit web app for instant resume analysis. Uses Gemini API and PyPDFReader to provide resume-JD matching percentage, missing keywords, and optimization suggestions in milliseconds.
-
-**Technologies:**
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
-  <img src="https://img.shields.io/badge/Gemini_API-34A853?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API Badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/LLM-black?style=for-the-badge&logo=openai&logoColor=white&labelColor=black&label=LLM" alt="LLM Badge">
-  <img src="https://img.shields.io/badge/PyPDFReader-red?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyPDFReader Badge">
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
@@ -65,21 +68,32 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 **Technologies:**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Audio_Classification-orange?style=for-the-badge&logo=audio-technica&logoColor=white&labelColor=orange&label=Audio%20Classification">
-  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=blueviolet&label=Machine%20Learning">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
+  <img src="https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio Badge">
+  <img src="https://img.shields.io/badge/Audio_Classification-orange?style=for-the-badge&logo=audio-technica&logoColor=white&labelColor=orange&label=Audio%20Classification" alt="Audio Classification Badge">
+  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=dataiku&logoColor=white&labelColor=blueviolet&label=Machine%20Learning" alt="Machine Learning Badge">
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logoColor=white&labelColor=8A2BE2&label=Deep%20Learning" alt="Deep Learning Badge">
 
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### Power BI Dashboard for Bank Loan Analysis
-**Description:** Power BI dashboard for bank loan analysis with DAX metrics.  Used MS SQL for data verification and applied MoM, MTD analysis for financial insights with detailed visualizations.
+### AI + Blockchain Powered Heart Disease Risk Prediction System
+**Description:** Created an AI + Blockchain system for heart disease risk. Employs a ~99% accurate Random Forest model (Optuna, Flask API) and stores prediction records immutably on Polygon (Solidity, Hardhat). Google Gemini 2.0 Flash generates personalized health plans. Streamlit dashboard with Plotly for user interaction and blockchain data.
 
 **Technologies:**
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
-  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Badge">
-  <img src="https://img.shields.io/badge/DAX-00ABC7?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=00ABC7&label=DAX" alt="DAX Badge">
-  <img src="https://img.shields.io/badge/Data_Visualization-9466FF?style=for-the-badge&logo=chart-bar&logoColor=white&labelColor=9466FF&label=Data%20Visualization">
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge&logo=dataiku&logoColor=white&labelColor=blueviolet&label=Machine%20Learning" alt="Machine Learning Badge">
+  <img src="https://img.shields.io/badge/Optuna-8A2BE2?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon Badge">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity Badge">
+  <img src="https://img.shields.io/badge/Hardhat-FEEB95?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat Badge">
+  <img src="https://img.shields.io/badge/Ethers.js-20899B?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js Badge">
+  <img src="https://img.shields.io/badge/Gemini_API-34A853?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API Badge">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge">
+  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain Badge">
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
