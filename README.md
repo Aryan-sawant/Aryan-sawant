@@ -33,7 +33,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### Bone Health AI Suite
+### Bone Health AI Suite | [GitHub](https://github.com/Aryan-sawant/bonewise-analytics-suite) | [Demo](https://viteduin59337-my.sharepoint.com/personal/vidya_chitre_vit_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvidya%5Fchitre%5Fvit%5Fedu%5Fin%2FDocuments%2FINFT%20Project%20document%2FAY%2D%202024%2D25%2FBE%2FDiv%20A%2FSem%208%20Submission%2FProject%20Video%2FITA08%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E709d3389%2Db88f%2D430f%2D8fb6%2D1009f0d4a429)
 **Description:** Developed a full-stack "Bone Health AI Suite" using Google Gemini 2.5 Pro for multi-modal medical image analysis (X-ray, CT, MRI) across 8 bone health tasks. Features role-based AI reports (Patient/Doctor), analysis history, chatbot, and specialist finder via Google Maps. Built with React, TypeScript, Vite, and Supabase (PostgreSQL); accuracy validated by medical experts.
 
 **Technologies:**
@@ -48,7 +48,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### No-Code Agentic AI RAG System
+### No-Code Agentic AI RAG System | [Demo](https://www.linkedin.com/posts/aryan-sawant-b2326828a_agenticai-langflow-generativeai-activity-7280990434523275264-OMdF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYpWksBESJfCF4u8NyIUmFs8kMO52KUsMU)
 **Description:** No-code Agentic AI RAG system using LangFlow for dynamic information retrieval and response generation. Built with LangFlow, AstraDB, Groq API, and Google Search API for an interactive chatbot.
 
 **Technologies:**
@@ -63,7 +63,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### Western Ghats Bird Species Audio Classification
+### Western Ghats Bird Species Audio Classification | [GitHub](https://github.com/Aryan-sawant/Western_Ghats_Bird_Species_Audio_Classification) | [Demo](https://www.linkedin.com/posts/aryan-sawant-b2326828a_machinelearning-deeplearning-cnn-activity-7218249604809576448-uBeL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYpWksBESJfCF4u8NyIUmFs8kMO52KUsMU)
 **Description:** Developed a system for classifying bird species from audio recordings, focusing on species in the Western Ghats region.  Utilized machine learning for audio feature extraction and classification.
 
 **Technologies:**
@@ -78,7 +78,7 @@ I'm an <b>innovative engineer</b> skilled in <b>Deep Learning, Generative AI, Ag
 
 <hr style="border: 1px solid #d0d0d0; border-radius: 5px;">
 
-### AI + Blockchain Powered Heart Disease Risk Prediction System
+### AI + Blockchain Powered Heart Disease Risk Prediction System | [GitHub](https://github.com/Aryan-sawant/AI-Blockchain-Powered-Heart-Risk-Prediction) | [Demo](https://viteduin59337-my.sharepoint.com/personal/vinita_bhandiwad_vit_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvinita%5Fbhandiwad%5Fvit%5Fedu%5Fin%2FDocuments%2FAY%2024%2D25%2Facademics%2FEVEN%20SEM%2024%2D25%2FBLOCKCHAIN%2FMINI%20PROJECT%20SUBMISSION%2FDIV%20A%2FB1%2FAI%20%2B%20Blockchain%20Powered%20Heart%20Risk%20Prediction%20System%2FAI%20%2B%20Blockchain%20Powered%20Heart%20Risk%20Prediction%20System%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee7d7c0c5%2D7fce%2D41c3%2D898c%2Dfc1e6f89c54b)
 **Description:** Created an AI + Blockchain system for heart disease risk. Employs a ~99% accurate Random Forest model (Optuna, Flask API) and stores prediction records immutably on Polygon (Solidity, Hardhat). Google Gemini 2.0 Flash generates personalized health plans. Streamlit dashboard with Plotly for user interaction and blockchain data.
 
 **Technologies:**
